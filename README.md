@@ -40,5 +40,3 @@ Click the "Show Recommendation" button to view recommended songs.
 
 The recommended songs along with their album covers will be displayed.
 
-Results
-Screenshot 2024-03-11 113306
