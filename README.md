@@ -17,7 +17,7 @@ spotipy - Used to interact with the Spotify API for song information.
 How to Install and Run the Project
 Clone the repository:
 
-git clone https://github.com/nithishravuvari/Music-Recommendation-System.git
+git clone https://github.com/srujanboda/Music-Recommendation-System.git
 Navigate to the project directory:
 
  cd music-recommendation-system
@@ -30,3 +30,15 @@ Run the recommendation model script:
 Run the web hosting script:
 
  streamlit run app.py
+
+ How to Use the Project
+Open the web application by navigating to http://localhost:8501 in your web browser.
+
+Select a song from the dropdown menu.
+
+Click the "Show Recommendation" button to view recommended songs.
+
+The recommended songs along with their album covers will be displayed.
+
+Results
+Screenshot 2024-03-11 113306
